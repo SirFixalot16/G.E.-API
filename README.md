@@ -5,4 +5,4 @@ Bootstrap for styling
 # Java
 
 "Main.java" for testing, as implemented in "Lau.java"\
-"Thymeleaf.java" to connect with the .html using Spring Boot\
+"Thymeleaf.java" to connect with the .html using Spring Boot
